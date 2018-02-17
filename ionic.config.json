@@ -1,0 +1,8 @@
+{
+  "name": "splash",
+  "app_id": "eb90dd25",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
