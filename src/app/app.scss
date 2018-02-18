@@ -2,19 +2,17 @@
     position: absolute;
     width: 100%;
     height: 100%;
-    background: ffffff;
     z-index: 999;
     display: flex;
     align-items: center;
-    flex-direction: column;
-    color: #fff;
-    background: linear-gradient(to bottom, #ff7400 0%,#ff4800 100%);
+    justify-content: center;
+    background: #ff7400;
   }
 
   .spinner {
-    width: 40px;
-    height: 40px;
-    background-color: #ffffff;
+    width: 22vw;
+    height: 22vw;
+    background-color:#ffffff;
   
     margin: 100px auto;
     -webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
